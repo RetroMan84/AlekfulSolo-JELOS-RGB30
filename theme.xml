@@ -17,7 +17,7 @@ version         1.0
 		<text name="clock">
      			<color>ffffff</color>
       			<fontSize>0.040</fontSize>
-      			<pos>0.852 0.95</pos>
+      			<pos>0.858 0.95</pos>
       			<size>0.14 0.068</size>
       			<alignment>right</alignment>
       			<verticalAlignment>right</verticalAlignment>
